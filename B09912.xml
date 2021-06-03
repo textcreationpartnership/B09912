@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Rules and directions to be observed by the ware-house-keeper, and by the severall officers of the customes, and others that shall make any stay or seizures, or demises of any goods or merchandizes for custome-causes within the port of London</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09912</idno><idno type="EEBO-CITATION">64551714</idno>
+  <idno type="VID">184782</idno>
+  <idno type="EEBO-PROQUEST">2240877562</idno>
+  
+            <idno type="STC">Wing R2248A</idno>
+            <idno type="STC">ESTC R223974</idno>
+            <idno type="OCLC">64551714</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B09912)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 184782)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2871:48)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Rules and directions to be observed by the ware-house-keeper, and by the severall officers of the customes, and others that shall make any stay or seizures, or demises of any goods or merchandizes for custome-causes within the port of London</title>
+                  <author>England and Wales. Commissioners of Customs.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1651]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>"Published by speciall appointment of the Commissioners for the Customs.  Ro. Blackborne, Secr."</note>
+                  <note>Place and date of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: Harvard University. Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  Commerce --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:184782:1"/>
+            <head>
+               <figure>
+                  <figDesc>woodcut of English Commonwealth coat of arms, circa 1650</figDesc>
+               </figure>
+            </head>
+            <head>Rules and Directions to be observed by the Ware-house-keeper, and by the severall Officers of the Customes, and others that shall make any stay or seizures, or demises of any Goods or Merchandizes for Custome-causes within the Port of <hi>London.</hi>
+            </head>
+            <p n="1">1. THat all Officers or others that make any seizures of any Goods prohibited, or for Custome-causes, doe forthwith after the seizing of them bring them into the States publike Ware-house neere the Custome-house, there to be kept untill the Commissioners shall give order for the delivery of them.</p>
+            <p n="2">2. That the severall Officers respectively that shall make any stay, seizure, or demise of any Goods or Merchandize as prohibited, or for Custome-causes, if it be in the forenoon, doe forthwith repaire to Mr. <hi>Walter Sankey</hi> Register of the sei<g ref="char:EOLhyphen"/>zures, and Sollicitor for Custome-causes, and enter the same with him; and if it be in the afternoon, and that the said Regi<g ref="char:EOLhyphen"/>ster be not at the Custome-house, then the said Officers to enter the same with him the next day in the forenoon.</p>
+            <p n="3">3. That the said Officers shall within the time aforsaid acquaint the Commissioners of the Customes, or some of them, with such stay, seizure, or demise of Goods, and receive their directions concerning the same.</p>
+            <p n="4">4. That if the Commissioners or any of them given direction for prosecuting of the same in the Exchequer, then the said Officer or Officers to give instructions to the said Mr. <hi>Sankey</hi> their Sollicitor for the exhibiting of an Information, as the case shall require.</p>
+            <p n="5">5. That if the Proprietor or Proprietors, of any such Goods seized, &amp;c. shall procure a Licence to compound for the same, then the Officer before he treate or compound for the same Goods, doe procure the same to be apprized by ver<g ref="char:EOLhyphen"/>tue of a Writ of apprizement out of the Exchequer, which the said Sollicitor is hereby required to procure at the request and charge of the said Officer, as soon as may be; and the said Goods being apprized, that the said Officer bring the said Writ and Indenture of Apprizement to the Register, to be by him registred in a Booke kept for that purpose.</p>
+            <p n="6">6. That no Officer conclude any composition for seizures without direction from the Commissioners.</p>
+            <p n="7">7. That every officer that shall make any composition shall include in his oath upon the same License in one intire sum what money he taketh either for composition or other charges.</p>
+            <p n="8">8. That composition being made, the officer returne his Licence upon oath into the Exchequer, and cause the same to be entred there within two dayes after such composition made.</p>
+            <p n="9">9. That the said Licence being so entred in the Exchequer, the said officer doe within 24 hours bring it to be said Re<g ref="char:EOLhyphen"/>gister, to be entred into a Book to that purpose.</p>
+            <p n="10">10. That the officer having made his composition doe not suffer the Goods compounded for to be delivered, untill the Proprietor have procured his Fine to be rated, and the monies thereby due to the State to be payd to the Cashier generall, nor untill the Customes be payd for the same, with such other monies as are due for charges in the Exchequer by reason of the same suit, which monies for the charges are to be payd to the said Sollicitor for discharge therof, and that therupon it be signified unto them by a note in writing under the hand of the said Mr. <hi>Sankey</hi> that the Commissioners have ordered that such Goods be delivered.</p>
+            <p n="11">11. To this end the Warehouse-keeper is required to take speciall notice of what Goods are committed to his keeping which are seized, the officer acquainting him therewith at the bringing them into the Warehouse; and the said Ware<g ref="char:EOLhyphen"/>house-keeper is required not to deliver, nor suffer the same Goods, nor any part thereof to be delivered, notwithstanding any usuall Warrant come to him for that purpose, untill he be certified from the Commissioners by their said Register that those Goods are to be delivered by order of the Commissioners.</p>
+            <p n="12">12. That when any Goods seized be condemned in the Exchequer, the officer that is to have the benefit thereof, doe within twelve dayes after such condemnation enrolled in the Exchequer, and certified unto him by the said Register, pay the moyety due to the State (according as they are apprized) unto the Cashier-generall, and doe also within the time limi<g ref="char:EOLhyphen"/>ted pay to Mr. <hi>Sankey</hi> such monies as are due in the Exchequer for the charges of the suit and condemnation.</p>
+            <p n="13">13. That no officer of the Customes deliver any Goods by vertue of any Writ of delivery, without the direction of the Commissioners signified by their Register.</p>
+            <p n="14">14. And that all persons making seizures before disposition be by them made of any part of the Goods and Merchan<g ref="char:EOLhyphen"/>dizes by them seized, doe repaire to the Commissioners of the Customes to know whether they will take the Common<g ref="char:EOLhyphen"/>wealths part in kind or not.</p>
+            <closer>
+               <dateline>
+                  <date>6 <hi>January,</hi> 1650.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>
+               <hi>Published by especiall appointment of the Commissioners for the Customes.</hi>
+            </p>
+            <closer>
+               <signed>RO. BLACKBORNE, Secr.</signed>
+            </closer>
+         </div>
+      </back>
+   </text>
+</TEI>
